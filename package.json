@@ -1,0 +1,8 @@
+{
+  "name": "Znotbot",
+  "version": "1.0.0",
+  "description": "Znot znot znotbot",
+  "main": "bot.js",
+  "author": "Znotnotbot",
+  "dependencies": {}
+}
